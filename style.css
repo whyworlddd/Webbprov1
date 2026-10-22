@@ -1,0 +1,73 @@
+body{
+    background-color: #add8e6;
+
+}
+
+
+
+header{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    font-size: larger;
+    justify-self: center;
+    width: 60%;
+    justify-content: space-evenly;
+    
+
+}
+
+#boll{
+    width: 10%;
+    height: 10%;
+}
+
+#links{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    justify-self: center;
+    width: 33%;
+    justify-content: space-evenly;
+    
+
+}
+
+ 
+
+#Klubbar{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+
+}
+
+#Imagesclub{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+
+#clubimage {
+    width: 15%;
+    height: 15%;
+
+}
+
+
+#clubtext{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
+
+
+#bottomtext{
+    display: flex;
+    
+    justify-content: center;
+    height: 110px;
+    align-items: flex-end;
+    
+}
